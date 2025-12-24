@@ -1,0 +1,100 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Évasion relaxante à Sibiu, la perle de Transylvanie",
+  "budget_total": "770-800€",
+  "duree": "3 jours",
+  "temps_vol": "4h35 depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et charme médiéval",
+      "legende": "Après un vol confortable, plongez directement dans l'atmosphère unique de Sibiu. La première journée est dédiée à une découverte douce du centre historique, classé au patrimoine mondial de l'UNESCO. Laissez-vous charmer par l'architecture saxonne et les places animées, parfait pour se détendre après le voyage.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🛬 Arrivée à Sibiu et transfert à l'hôtel</strong>: Installation et rafraîchissement avant de débuter l'exploration.",
+        "<strong>🚶‍♂️ Balade sur la Piața Mare (Grande Place)</strong>: Admirez les façades colorées et l'architecture baroque de la place principale, cœur vibrant de la ville.",
+        "<strong>🌉 Découverte de la Piața Mică et du Pont des Mensonges</strong>: Flânez sur la Petite Place, explorez ses passages secrets et traversez le célèbre pont, imprégné de légendes."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre historique de Sibiu est très compact et se visite facilement à pied. Prévoyez des chaussures confortables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌳",
+      "titre": "Culture, nature et panorama",
+      "legende": "Cette journée combine immersion culturelle et moments de détente en pleine nature. Le matin est consacré à un musée en plein air unique, offrant une perspective fascinante sur la vie rurale roumaine. L'après-midi, profitez d'une vue imprenable sur la ville, avant une soirée relaxante.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>🏛️ Visite du Complexe National du Musée ASTRA</strong>: Explorez ce vaste musée ethnographique en plein air, un véritable village traditionnel roumain avec ses maisons, moulins et ateliers.",
+        "<strong>🚶‍♀️ Détente au Parc Sub Arini</strong>: Profitez d'une promenade apaisante dans l'un des plus grands et anciens parcs naturels de Roumanie, idéal pour se ressourcer.",
+        "<strong>🌇 Montée à la Tour du Conseil pour un coucher de soleil</strong>: Gravissez les marches de cette tour emblématique pour admirer un panorama spectaculaire sur Sibiu et ses environs au crépuscule."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès au Musée ASTRA",
+          "texte": "Le musée ASTRA est situé à quelques kilomètres du centre-ville. Un bus local ou un court trajet en taxi est recommandé pour s'y rendre facilement."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "La Tour du Conseil offre une vue magnifique, mais l'escalier est étroit. Prévoyez d'y monter avant la fermeture pour profiter pleinement du panorama."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🧘‍♀️",
+      "titre": "Douceur et départ",
+      "legende": "Pour cette dernière journée, optez pour une matinée tout en douceur, explorant les charmes cachés de Sibiu ou profitant d'un moment de bien-être. C'est l'occasion de faire quelques emplettes de souvenirs ou de savourer un dernier café roumain avant de prendre le chemin de l'aéroport, la tête pleine de souvenirs.",
+      "lieu": "Sibiu",
+      "activites": [
+        "<strong>☕ Matinée libre et exploration des passages secrets</strong>: Flânez dans les ruelles moins connues, découvrez des cours intérieures et des cafés pittoresques pour une immersion locale.",
+        "<strong>🛍️ Shopping de souvenirs locaux</strong>: Profitez des petites boutiques artisanales pour trouver des produits traditionnels roumains, comme la céramique ou les broderies.",
+        "<strong>✈️ Départ de Sibiu</strong>: Transfert à l'aéroport pour votre vol retour, emportant avec vous la sérénité de la Transylvanie."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les marchés locaux et les petites boutiques autour de la Piața Mică regorgent de trésors artisanaux. N'hésitez pas à marchander gentiment."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 406 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40-50 €/pers (transferts aéroport, bus local)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 75 €/pers (3 jours, repas dans des restaurants de gamme moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 225 €/pers (3 nuits en hôtel 3* sur la base d'une chambre individuelle)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 25 €/pers (Musée ASTRA, Tour du Conseil, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin (pour le temps doux et les festivals)", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Leu Roumain (RON). Les cartes bancaires sont largement acceptées, mais prévoyez un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La langue officielle est le roumain, mais l'anglais est couramment parlé dans les zones touristiques. Quelques mots de roumain seront appréciés.", "symbole": "🗣️" },
+    { "titre": "Sibiu est très agréable à explorer à pied. Pour les trajets plus longs (ex: Musée ASTRA), les bus locaux sont efficaces et économiques. Les taxis sont également abordables.", "symbole": "🚶‍♀️" },
+    { "titre": "Un adaptateur universel n'est généralement pas nécessaire, les prises électriques sont de type F (comme en France).", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SBZ/2026-06-05/2026-06-08", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Roumanie", "url": "https://romania.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sibiu", "url": "https://www.accuweather.com/fr/ro/sibiu/287754/weather-forecast/287754", "symbole": "🌤️" },
+    { "legende": "Transports en commun Sibiu", "titre": "Tursib (Transports Sibiu)", "url": "https://tursib.ro/", "symbole": "🚌" }
+  ]
+}
